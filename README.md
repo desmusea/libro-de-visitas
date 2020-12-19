@@ -1,7 +1,7 @@
 
 # raspberry pi smiley terminal 
 
-👩🏻‍💻  **muy easy, fácil. 
+👩🏻‍💻  **muy easy, fácil. **
 
 press a button
 
